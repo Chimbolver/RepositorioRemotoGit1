@@ -1,0 +1,101 @@
+id,nombre,descripcion,precio
+1,Martillo de carpintero,Martillo resistente con mango de madera,12.99
+2,Taladro eléctrico,Taladro de velocidad variable con accesorios,49.99
+3,Llave inglesa 10",Llave ajustable de 10 pulgadas,9.99
+4,Sierra circular,Sierra eléctrica para cortes precisos,79.99
+5,Conjunto de destornilladores,Juego de 6 destornilladores de diferentes tamaños,14.99
+6,Tubo de PVC 3 metros,Tubo de PVC resistente para proyectos de fontanería,8.99
+7,Clavos galvanizados 1",Clavos resistentes para construcción,5.99
+8,Cinta métrica 5 metros,Cinta métrica con bloqueo automático,7.99
+9,Linterna LED recargable,Linterna brillante con batería recargable,19.99
+10,Sierra de mano,Sierra de mano para trabajos de precisión,16.99
+11,Amoladora angular,Amoladora eléctrica para cortes y pulidos,34.99
+12,Pala de jardín,Pala resistente para trabajos de jardinería,18.99
+13,Soldador eléctrico,Soldador para proyectos de soldadura,39.99
+14,Tornillos surtidos 200 piezas,Juego de tornillos de diferentes tamaños,6.99
+15,Alicates de corte,Alicates con filo para cortar alambre,11.99
+16,Escalera de aluminio 6 pies,Escalera plegable para trabajos en altura,44.99
+17,Sierra de calar,Sierra eléctrica para cortes curvos,29.99
+18,Guantes de trabajo resistentes,Guantes con agarre para trabajos pesados,8.99
+19,Pintura en aerosol negra,Pintura en aerosol para proyectos de pintura,3.99
+20,Escuadra de carpintero,Escuadra para medir y marcar ángulos,5.99
+21,Escobilla de acero,Cepillo de acero para limpieza de superficies,7.99
+22,Set de brocas para madera,Juego de brocas de alta calidad,14.99
+23,Cadena de seguridad 2 metros,Cadena resistente para asegurar objetos,9.99
+24,Candado de combinación,Candado con combinación para seguridad,12.99
+25,Nivel de burbuja 24",Nivel para asegurar la horizontalidad y verticalidad,17.99
+26,Tubería de cobre 5 metros,Tubería de cobre para proyectos de fontanería,23.99
+27,Serrucho de podar,Serrucho para trabajos de poda,13.99
+28,Clavadoras neumáticas,Clavadoras para fijar clavos de forma rápida,89.99
+29,Cinta adhesiva de doble cara,Rollo de cinta adhesiva para proyectos varios,4.99
+30,Organizador de herramientas,Panel perforado para colgar y organizar herramientas,22.99
+31,Esmeriladora de banco,Esmeriladora para afilar y pulir herramientas,54.99
+32,Brocha para pintura,Brocha de cerdas naturales para proyectos de pintura,6.99
+33,Caja de herramientas 20",Caja resistente para almacenar herramientas,32.99
+34,Cinta de aislar eléctrica,Rollo de cinta aislante para conexiones eléctricas,2.99
+35,Sierra de sable,Sierra eléctrica para cortes rápidos,37.99
+36,Mascarilla respiratoria, Mascarilla con filtro para protección contra polvo,4.99
+37,Tornillo de banco,Tornillo de banco para sujetar piezas durante trabajos,28.99
+38,Pala de nieve,Pala robusta para quitar nieve,20.99
+39,Taladro de percusión,Taladro con función de percusión para trabajos más difíciles,59.99
+40,Hacha de camping,Hacha compacta para actividades al aire libre,15.99
+41,Lijadora orbital,Lijadora para trabajos de lijado finos,39.99
+42,Regadera de jardín,Regadera resistente para riego de plantas,12.99
+43,Linterna de cabeza,Linterna con correa para trabajos manos libres,9.99
+44,Caja de clavos para clavadora,Juego de clavos para clavadora neumática,7.99
+45,Martillo de bola,Martillo de bola para trabajos de construcción,14.99
+46,Tijeras de podar,Tijeras afiladas para poda de plantas,8.99
+47,Cinta métrica 10 metros,Cinta métrica larga para proyectos extensos,14.99
+48,Broca de titanio 5 mm,Broca resistente para perforaciones precisas,3.99
+49,Pinzas de presión,Juego de pinzas de presión para sujetar objetos,10.99
+50,Candado de seguridad,Candado resistente para asegurar herramientas,15.99
+51,Pistola de calor,Pistola de calor para trabajos de secado y moldeado,27.99
+52,Set de llaves allen,Juego de llaves allen de diferentes tamaños,6.99
+53,Sierra de mano plegable,Sierra plegable para trabajos portátiles,18.99
+54,Caja de tornillos para yeso,Juego de tornillos para trabajos en yeso,5.99
+55,Cinta de teflón para fontanería,Rollo de cinta para sellar roscas,3.99
+56,Escalera telescópica 12 pies,Escalera extensible para trabajos en altura,64.99
+57,Cubeta de pintura,Cubeta resistente para proyectos de pintura,9.99
+58,Llave de tubo 14",Llave de tubo para trabajos de fontanería,11.99
+59,Sierra de costilla,Sierra para cortes precisos en madera,22.99
+60,Linterna magnética,Linterna con imán para trabajos en espacios reducidos,12.99
+61,Broca para vidrio 6 mm,Broca especializada para perforar vidrio,4.99
+62,Martillo de bola antivibración,Martillo diseñado para reducir vibraciones,16.99
+63,Paleta de albañil,Paleta de acero para trabajos de albañilería,8.99
+64,Guantes de cuero resistentes,Guantes de cuero para trabajos duros,13.99
+65,Llave de carraca 1/2",Llave de carraca para apretar y aflojar tuercas,18.99
+66,Soldador de gas,Soldador portátil con llama ajustable,29.99
+67,Taladro inalámbrico,Taladro sin cable para mayor movilidad,69.99
+68,Grifo para jardín,Grifo resistente para conexión de manguera,14.99
+69,Set de destornilladores de precisión,Juego de destornilladores pequeños,7.99
+70,Tornillo de anclaje 6x50 mm,Tornillo de expansión para fijaciones fuertes,5.99
+71,Llave de impacto,Llave de impacto para trabajos de alta torsión,42.99
+72,Escalera de tijera 8 pies,Escalera plegable tipo tijera,39.99
+73,Tubería de PVC 2 metros,Tubo de PVC para proyectos más pequeños,5.99
+74,Sierra de mano para metales,Sierra especializada para cortes en metales,19.99
+75,Llave de cadena,Llave con cadena para trabajos de fontanería,11.99
+76,Cinta adhesiva para conductos,Rollo de cinta para sellar conductos,7.99
+77,Sierra de marquetería,Sierra de precisión para cortes detallados,32.99
+78,Lámpara de trabajo LED,Lámpara portátil con luz LED brillante,22.99
+79,Clavos de acero inoxidable 2",Clavos resistentes para exteriores,6.99
+80,Set de brocas para metal,Juego de brocas de alta velocidad para metal,11.99
+81,Caja de herramientas rodante,Caja con ruedas para transportar herramientas,49.99
+82,Cinta de medir adhesiva,Cinta adhesiva para mediciones temporales,3.99
+83,Puntas de destornillador 20 piezas,Set de puntas de destornillador magnéticas,8.99
+84,Azada de jardín,Azada robusta para trabajos de jardinería,15.99
+85,Taladro percutor,Taladro con función de percusión para mampostería,54.99
+86,Pistola de grapas,Pistola para grapar materiales de forma rápida,18.99
+87,Set de alicates de electricista,Juego de alicates para trabajos eléctricos,16.99
+88,Cuerda de nylon 20 metros,Cuerda resistente para diversas aplicaciones,5.99
+89,Cizallas de hojalatero,Cizallas para cortar chapa y metal delgado,14.99
+90,Tanque de gas propano 5 kg,Tanque de gas para herramientas a gas,29.99
+91,Paleta para albañil,Paleta de plástico para trabajos de albañilería,7.99
+92,Broca para mampostería 8 mm,Broca especializada para perforaciones en ladrillo,6.99
+93,Pintura antioxido,Pintura antioxidante para proteger metales,8.99
+94,Escuadra magnética,Escuadra con imán para sujetar piezas metálicas,9.99
+95,Cepillo metálico,Cepillo de alambre para limpieza de metales,4.99
+96,Tijeras de chapa,Tijeras para cortar chapa y láminas metálicas,11.99
+97,Caja de clavos para madera 500 g,Juego de clavos para trabajos de carpintería,3.99
+98,Sierra de sable inalámbrica,Sierra de sable sin cable para cortes rápidos,49.99
+99,Nivel láser autonivelante,Nivel láser para mediciones precisas,79.99
+100,Organizador de piezas pequeñas,Organizador con compartimentos para piezas pequeñas,14.99
